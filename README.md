@@ -1,7 +1,7 @@
 # YouTube Trend Explorer (Autonomous Data Scraper)
 
 ## Overview
-This project is an autonomous web scraping pipeline designed to extract YouTube video data efficiently and securely. It is built to bypass basic anti-bot mechanisms and store the collected data in an SQLite database. This system serves as the foundational data acquisition layer for a Machine Learning dataset generation project (TÜBİTAK 2209-A).
+This project is an autonomous web scraping pipeline designed to extract YouTube video data efficiently and securely. It is built to bypass basic anti-bot mechanisms and store the collected data in an SQLite database. This system serves as the foundational data acquisition layer for a Machine Learning dataset generation project.
 
 ## Key Features
 * **Anti-Bot Mechanisms:** Implements dynamic User-Agent rotation, `Referer` spoofing, and randomized sleep intervals (search and video analysis delays) to mimic organic human behavior.
